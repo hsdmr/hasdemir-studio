@@ -19,7 +19,7 @@
     <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#69db7c" transform="rotate(154.29)"/>
     <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#4dabf7" transform="rotate(205.71)"/>
     <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#9775fa" transform="rotate(257.14)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#f783ac" transform="rotate(308.57)"/>
+    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#ece6ff" transform="rotate(308.57)"/>
     <!-- Ortada çakra taşı -->
     <circle r="78" fill="#ffffff" fill-opacity="0.16"/>
     <path d="M0 -62 L46 0 L0 62 L-46 0 Z" fill="#ffffff"/>
