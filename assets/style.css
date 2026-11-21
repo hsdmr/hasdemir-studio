@@ -54,6 +54,7 @@ h2 { font-size: 32px; margin-bottom: 28px; }
 
 .product { display: grid; grid-template-columns: 120px 1fr; gap: 28px; align-items: start; background: var(--bg-soft); border: 1px solid var(--line); border-radius: 18px; padding: 28px; }
 .product img { width: 120px; height: 120px; border-radius: 26px; }
+.product + .product { margin-top: 20px; }
 .product h3 { font-size: 26px; }
 .product p { color: var(--muted); margin: 10px 0 16px; max-width: 60ch; }
 .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; }
