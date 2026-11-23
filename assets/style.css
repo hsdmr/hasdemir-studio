@@ -61,6 +61,8 @@ h2 { font-size: 32px; margin-bottom: 28px; }
 .tags li { font-size: 13px; color: var(--steel); border: 1px solid var(--line); border-radius: 999px; padding: 3px 12px; }
 .links { display: flex; flex-wrap: wrap; gap: 18px; font-weight: 600; }
 .soon { color: var(--muted); font-weight: 400; }
+.play { display: inline-block; background: var(--ember); color: #121419; font-weight: 600; border-radius: 999px; padding: 8px 18px; text-decoration: none; }
+.play:hover { background: var(--ember-deep); color: #fff; }
 
 .values { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
 .values h3 { font-size: 19px; margin-bottom: 8px; }
