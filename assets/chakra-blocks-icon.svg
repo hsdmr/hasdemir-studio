@@ -10,19 +10,19 @@
     </radialGradient>
   </defs>
   <rect width="512" height="512" rx="112" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="190" fill="url(#glow)"/>
+  <circle cx="256" cy="256" r="236" fill="url(#glow)"/>
   <!-- Yedi çakra renginde lotus yaprakları (bloklar) -->
   <g transform="translate(256 256)">
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#ff6b6b" transform="rotate(0)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#ffa94d" transform="rotate(51.43)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#ffd43b" transform="rotate(102.86)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#69db7c" transform="rotate(154.29)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#4dabf7" transform="rotate(205.71)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#9775fa" transform="rotate(257.14)"/>
-    <rect x="-34" y="-176" width="68" height="68" rx="10" fill="#ece6ff" transform="rotate(308.57)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#ff6b6b" transform="rotate(0)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#ffa94d" transform="rotate(51.43)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#ffd43b" transform="rotate(102.86)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#69db7c" transform="rotate(154.29)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#4dabf7" transform="rotate(205.71)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#9775fa" transform="rotate(257.14)"/>
+    <rect x="-39" y="-206" width="78" height="78" rx="11" fill="#ece6ff" transform="rotate(308.57)"/>
     <!-- Ortada çakra taşı -->
-    <circle r="78" fill="#ffffff" fill-opacity="0.16"/>
-    <path d="M0 -62 L46 0 L0 62 L-46 0 Z" fill="#ffffff"/>
-    <path d="M0 -28 L20 0 L0 28 L-20 0 Z" fill="#ffffff" fill-opacity="0.55"/>
+    <circle r="92" fill="#ffffff" fill-opacity="0.2"/>
+    <path d="M0 -76 L56 0 L0 76 L-56 0 Z" fill="#ffffff"/>
+    <path d="M0 -34 L24 0 L0 34 L-24 0 Z" fill="#ffffff" fill-opacity="0.55"/>
   </g>
 </svg>
