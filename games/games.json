@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "com.hasdemirstudio.chakrablocks",
+      "name": "Chakra Blocks",
+      "desc_en": "Relaxing block puzzle with seven chakra colors.",
+      "desc_tr": "Yedi çakra rengiyle rahatlatıcı blok bulmacası.",
+      "icon": "https://hasdemir.tr/games/chakra-blocks.png",
+      "url": "https://play.google.com/store/apps/details?id=com.hasdemirstudio.chakrablocks"
+    },
+    {
+      "id": "com.hasdemirstudio.stellardrop",
+      "name": "Stellar Drop",
+      "desc_en": "Orbital merge puzzle: grow a whole star system.",
+      "desc_tr": "Yörüngede birleştirme: koca bir yıldız sistemi büyüt.",
+      "icon": "https://hasdemir.tr/games/stellar-drop.png",
+      "url": "https://play.google.com/store/apps/details?id=com.hasdemirstudio.stellardrop"
+    },
+    {
+      "id": "com.hasdemirstudio.rakehome",
+      "name": "Rake Home",
+      "desc_en": "Calm one-line puzzle: rake the sand and return home.",
+      "desc_tr": "Sakin tek çizgi bulmacası: kumu tırmıkla, eve dön.",
+      "icon": "https://hasdemir.tr/games/rake-home.png",
+      "url": "https://play.google.com/store/apps/details?id=com.hasdemirstudio.rakehome"
+    },
+    {
+      "id": "com.hasdemirstudio.lotusstack",
+      "name": "Lotus Stack",
+      "desc_en": "Calm hexagon sorting puzzle that opens lotuses.",
+      "desc_tr": "Nilüferler açan sakin altıgen sıralama bulmacası.",
+      "icon": "https://hasdemir.tr/games/lotus-stack.png",
+      "url": "https://play.google.com/store/apps/details?id=com.hasdemirstudio.lotusstack"
+    }
+  ]
+}
